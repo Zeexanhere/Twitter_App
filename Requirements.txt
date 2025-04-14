@@ -1,0 +1,3 @@
+Open Terminal -> ctrl + shift + `
+
+write - streamlit run app.py
